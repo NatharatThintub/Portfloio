@@ -1,0 +1,17 @@
+body {
+  background-color: #f0f0f0;;
+}
+/* Change the font size of the h1 heading */
+header h1 {
+  font-size: 48px; /* increase font size to 48 pixels */
+}
+
+/* Change the font size of the h2 headings */
+.about-me h2 {
+  font-size: 24px; /* increase font size to 24 pixels */
+}
+
+/* Change the font size of the paragraph text */
+.about-me p {
+  font-size: 18px; /* increase font size to 18 pixels */
+}
